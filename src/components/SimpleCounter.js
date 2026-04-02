@@ -19,19 +19,18 @@ function SimpleCounter() {
 
                     </Col>
                 </Row>
-                <Col sm='9' className=''>
-                </Col>
+
                 <Row xs={3} className='justify-content-center align-items-center'><Col className='text-end'>
 
                     <Button
                         className=" bg-light text-dark border-0 custom-btn me-2"
                     >
                         <FaCirclePlus />
-                    </Button>Increment
+                    </Button>
 
                 </Col>
-                    <Col sm-2 >
-                    <Input type='number' className='custom-form' max='100' maxLength='3'/>
+                    <Col md='3' lg='1' >
+                        <Input type='number' className='custom-formx-auto' max='100' maxLength='3' />
                     </Col>
                     <Col className='text-start'>
 
@@ -39,7 +38,7 @@ function SimpleCounter() {
                             className=" bg-light text-dark border-0 custom-btn me-2"
                         >
                             <FaCircleMinus />
-                        </Button> Decrement
+                        </Button> 
 
                     </Col>
                 </Row>
