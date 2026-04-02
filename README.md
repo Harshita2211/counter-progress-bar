@@ -1,11 +1,11 @@
-# 📊 Counter Progress Bar (React App)
+#  Counter Progress Bar (React App)
 
 A simple and interactive **Counter Progress Bar** built using React.  
 Users can increment, decrement, or manually input a value to update the progress bar dynamically.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - ➕ Increment counter (max: 100)
 - ➖ Decrement counter (min: 0)
@@ -16,7 +16,7 @@ Users can increment, decrement, or manually input a value to update the progress
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - React.js
 - Reactstrap (Bootstrap components)
@@ -25,7 +25,7 @@ Users can increment, decrement, or manually input a value to update the progress
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -39,7 +39,7 @@ src/
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 1. Clone the repository:
 ```bash
@@ -79,10 +79,10 @@ git clone https://github.com/your-username/counter-progress-bar.git
 ---
   
 ## Future Improvements
-- 🎯 Add animations to progress bar
-- 🌙 Dark mode support
-- 🔄 Auto-increment feature
-- 💾 Save progress in local storage
+-  Add animations to progress bar
+-  Dark mode support
+-  Auto-increment feature
+-  Save progress in local storage
 
 ---
 
